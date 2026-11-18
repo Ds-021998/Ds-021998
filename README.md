@@ -2,7 +2,7 @@
 
 I'm a business analyst turned interaction designer. I spent 3.5 years as a BA at Accenture and Birlasoft, running requirements workshops, mapping processes and writing proposals for enterprise clients. Now I'm doing a Master of Interaction Design at The University of Queensland, where I research, prototype and test with real users.
 
-I'm based in Brisbane and open to business analyst, product and UX roles.
+I'm based in Brisbane and open to business analyst, product and UX roles. Case studies are on my portfolio site: **[ds-021998.github.io](https://ds-021998.github.io)**
 
 ### Projects
 
@@ -18,4 +18,4 @@ How AI can be designed to feel emotionally meaningful for older adults, through 
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/dattatray-s-410359129)
+[Portfolio](https://ds-021998.github.io) · [LinkedIn](https://www.linkedin.com/in/dattatray-s-410359129)
